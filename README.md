@@ -1,4 +1,4 @@
-### Olá Devs e Devas 😃 Seja bem vindo ao meu portfólio, me chamo Adriano, sou apaixonado pela tecnologia e a cada dia que subo mais um degrau em minha carreira me sinto feliz!!###
+### Olá Devs e Devas 😃 Seja bem vindo ao meu portfólio, me chamo Adriano, sou apaixonado pela tecnologia e a cada dia que subo mais um degrau em minha carreira me sinto feliz!!
 _____________________________________________________________________________________________________________________________________________________________________
 ### Porfólio 2023 - Adriano Medeiros ###
 _____________________________________________________________________________________________________________________________________________________________________
