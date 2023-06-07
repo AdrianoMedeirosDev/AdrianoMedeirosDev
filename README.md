@@ -1,16 +1,11 @@
-### Hi there 👋
+### Olá Devs e Devas 😃 Seja bem vindo ao meu portfólio, me chamo Adriano, sou apaixonado pela tecnologia e a cada dia que subo mais um degrau em minha carreira me sinto feliz!!###
+_____________________________________________________________________________________________________________________________________________________________________
+### Porfólio 2023 - Adriano Medeiros ###
+_____________________________________________________________________________________________________________________________________________________________________
+### Changelog ###
+_____________________________________________________________________________________________________________________________________________________________________
+### 1.0 ### - A minha primeira criação e miniatura de portfólio, mal conhecia CSS hahaha!! 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 1.1 ### - Atual versão desse belo portfólio, espero que gostem 
+______________________________________________________________________________________________________________________________________________________________________
 
-<!--
-**AdrianoMedeirosDev/AdrianoMedeirosDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
