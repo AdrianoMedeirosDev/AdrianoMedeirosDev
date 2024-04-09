@@ -1,6 +1,6 @@
 ## Olá, me chamo Adriano Medeiros!
 🐱‍💻 Cursando ADS e meu foco pessoal é Full Stack<br>
-🌱 Estou atualmente estudando Java, HTML e CSS<br>
+🌱 Estou atualmente estudando algorítmos e Java<br>
 🎻Sou violinista nas horas vagas...<br>
 <div>
     <a href="https://github.com/AdrianoMedeirosDev">
